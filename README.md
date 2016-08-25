@@ -89,24 +89,6 @@ For now, this should make do:
 - The author (and/or other contributors) do the work as described by the
   "Implementation" section of the proposal.
 
-#### Quick start for committers
-
-If you're already familiar with writing design docs for the Go project,
-the process has not changed much.
-The main thing that has changed is where the proposal is published.
-
-In the situation where you'd write and circulate a design doc as a Google doc
-before, now you:
-
-- Create a GitHub issue labeled Proposal, to get a number NNNN.
-- Check in the Markdown-formatted design doc to
-  [the proposal repository](https://github.com/go-interpreter/proposal/)
-  as `design/NNNN-shortname.md`.
-- Mail [go-interpreter](https://groups.google.com/group/go-interpreter/) as usual.
-
-Worst case, by bypassing the initial discussion you've possibly written an
-unnecessary design doc. Not a big deal.
-
 ## Help
 
 If you need help with this process, please contact the `go-interpreter` contributors by posting
