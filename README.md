@@ -62,7 +62,7 @@ At this point in time, we don't have much of a lengthy proposal process,
 but we may have to revise it and follow more closely the one articulated by the [Go project](https://github.com/golang/proposal).
 For now, this should make do:
 
-- [Create an issue](https://github.com/go-interpreter/proposal/issue/new) describing the proposal.
+- [Create an issue](https://github.com/go-interpreter/proposal/issues/new) describing the proposal.
 
 - Optionally create a design doc:
 	- The design doc should be checked in to [the proposal repository](https://github.com/go-interpreter/proposal/) as `design/NNNN-shortname.md`,
