@@ -334,3 +334,8 @@ fashion.
    This probably needs either a working `buildmode=plugin` from the `go` tool,
    or a complete handling of dynamically loading bytecode object files.
 
+### Dis references
+
+- http://www.vitanuova.com/inferno/man/6/dis.html
+- http://www.vitanuova.com/inferno/man/2/dis.html
+- http://www.vitanuova.com/inferno/papers/dis.pdf
