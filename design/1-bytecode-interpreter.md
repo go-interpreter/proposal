@@ -4,7 +4,7 @@ Author: Sebastien Binet
 
 Last updated: 2016-08-26
 
-Discussion at https://github.com/go-interpreter/proposal/issue/1.
+Discussion at https://github.com/go-interpreter/proposal/issues/1.
 
 ## Abstract
 
